@@ -1,5 +1,5 @@
 import { CheckCircle, Edit, ArrowLeft, Trash2 } from 'lucide-react';
-import tunstallLogo from 'figma:asset/98cb252ed4c982b06d0f5e58a4b8933356bd7ed6.png';
+import tunstallLogo from '../../assets/98cb252ed4c982b06d0f5e58a4b8933356bd7ed6.png';
 
 interface PseudocodeOverride {
   code: string;
